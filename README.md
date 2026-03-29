@@ -20,3 +20,13 @@ This project helps users track daily expenses and analyze spending habits.
 git clone <your-repo-link>
 cd expense-tracker
 pip install -r requirements.txt
+## Screenshots
+
+### Output
+![Output](screenshots/screenshot_output.png)
+
+### Graph
+![Graph](screenshots/screenshot_chart.png)
+
+### Code
+![Code](screenshots/screenshot_code.png)
