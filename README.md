@@ -1,21 +1,22 @@
 # VITYARTHI-AIML-
 THIS IS MY AIML PROJECT
-# Smart Expense Tracker (Web App)
+# Smart Expense Tracker
 
 ## Overview
-A web-based application to track and analyze expenses.
+This project helps users track daily expenses and analyze spending habits.
 
 ## Features
-- Add expenses via web interface
-- View category-wise summary
-- Generate charts
+- Add daily expenses
+- View total and category-wise spending
+- Visualize data using graphs
 
 ## Tech Stack
-- Python (Flask)
+- Python
 - Pandas
 - Matplotlib
 
-## Run
+## Installation
 ```bash
+git clone <your-repo-link>
+cd expense-tracker
 pip install -r requirements.txt
-python app.py
